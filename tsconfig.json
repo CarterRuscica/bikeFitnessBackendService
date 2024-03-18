@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "module": "CommonJS",
+    "outDir": "./dist",
+    "rootDir": "./",
+    "esModuleInterop": true,
+    "strict": true,
+    "types": ["mocha", "node", "@types/express"],
+    "skipLibCheck": true
+  },
+  "include": [
+    "./**/*.ts",
+    "./tst/*.ts"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
