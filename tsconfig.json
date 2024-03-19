@@ -110,6 +110,7 @@
   },
   "include": [
     "src/**/*",
-    "tst/**/*"
+    "tst/**/*",
+    "jest.config.ts"
   ]
 }

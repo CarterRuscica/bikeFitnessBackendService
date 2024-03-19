@@ -1,4 +1,3 @@
-
 export const placeholder = () => {
-    return "placeholder";
-}
+  return 'placeholder';
+};

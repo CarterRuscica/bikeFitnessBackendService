@@ -1,4 +1,3 @@
-
 export const anotherPlaceholder = () => {
-    return "anotherPlaceholder";
-}
+  return 'anotherPlaceholder';
+};
