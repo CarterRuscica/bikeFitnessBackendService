@@ -5,7 +5,7 @@ Backend platform for bike fitness service
 #### Configuration Changes
 ```
 touch config.env
-# choose preferred text editor to modify process.env
+# choose preferred text editor to modify config.env
 ```
 Get key from OpenAI API Keys - https://platform.openai.com/api-keys
 ```

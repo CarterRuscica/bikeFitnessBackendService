@@ -1,6 +1,9 @@
 import { placeholder } from 'src/index';
 
-test('should return placeholder', () => {
-  const expectedValue = 'placeholder';
-  expect(expectedValue).toBe(placeholder());
+describe('index functions', () => {
+  it('should return placeholder', async () => {
+    expect(placeholder()).toBe('placeholder');
+  });
 });
+
+// test('app should ')
